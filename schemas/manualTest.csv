@@ -1,0 +1,4 @@
+measure_id,3,TEXT
+maximum_score,3,INTEGER
+passed,1,BOOLEAN
+preferred_meal,4,TEXT
